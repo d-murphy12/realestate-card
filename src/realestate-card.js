@@ -7,6 +7,7 @@ class RealestateCard extends LitElement {
     header: { type: String },
   }
 
+  //css
   static styles = css`
   .card {
     width: 400px;
